@@ -1,7 +1,6 @@
 # Professional README Generator
 
 ## Recording
-## Recording
 [Click here to watch the walkthrough video](https://app.screencastify.com/v2/watch/4DTuKK99EfKdy7gL6RgR)
 ## Description
 A command-line application built with Node.js that generates a professional-quality `README.md` file based on user input. It saves developers time by automatically creating a complete README structure that includes installation, usage, licensing, testing, and contribution information.
